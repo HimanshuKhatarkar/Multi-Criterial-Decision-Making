@@ -229,10 +229,3 @@ Finally, you can use the `load` function of the `mcdm` package to load a decisio
 <a name="ref8">**[8]**</a> G. J. Székely and M. L. Rizzo, “Brownian distance covariance,” *Ann. Appl. Statist.*, vol. 3, no. 4, pp. 1236–1265, 2009, doi: [10.1214/09-AOAS312](https://doi.org/10.1214/09-AOAS312).
 
 <a name="ref9">**[9]**</a> H.-S. Shih, H.-J. Shyur, and E. S. Lee, “An extension of TOPSIS for group decision making,” *Math. Comput. Model.*, vol. 45, no. 7–8, pp. 801–813, 2007, doi: [10.1016/j.mcm.2006.03.023](https://doi.org/10.1016/j.mcm.2006.03.023).
-
-
-## License
-
-Copyright (c) 2020-2022 Dimitrios-Georgios Akestoridis
-
-This project is licensed under the terms of the MIT License (MIT).
